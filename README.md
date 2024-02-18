@@ -1,1 +1,3 @@
-# draw-mathematics-winter-2024
+# Drawing an ellipse with its general formula with python
+
+[View NoteBook]()
